@@ -1,0 +1,1 @@
+call struct2vec/Scripts/activate.bat
